@@ -1,5 +1,5 @@
 # Présentation du Projet 
-Auteurs du projet: Shrijith SANTHAKUMAR? Charles BOUVIER  
+Auteurs du projet: Shrijith SANTHAKUMAR, Charles BOUVIER  
 Le but du projet est de développer un interpréteur de commande en langage C permettant de gérer une 
 formation universitaire.  
 Les commandes à prendre en compte vont permettre de définir   
